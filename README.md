@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌱 I’m currently learning RubyOnRails and React
+- 🌱 I’m currently learning RubyOnRails, Elixir and React
 - 👯 I’m looking to collaborate on every opensource project, that needs help xD
 
 <a href="https://github.com/m-pereira">
