@@ -23,4 +23,5 @@
     alt="LinkedIn"
   >
 </a>
-</div>
+
+[![@mauricioprl's Holopin board](https://holopin.me/mauricioprl)](https://holopin.io/@mauricioprl)
