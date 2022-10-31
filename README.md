@@ -3,16 +3,16 @@
 - 🌱 I’m currently learning RubyOnRails, Elixir and React
 - 👯 I’m looking to collaborate on every opensource project, that needs help xD
 
-<a href="https://github.com/m-pereira">
+<a href="https://github.com/mauricio-prl">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-pereira&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-prl&layout=compact&theme=dark"
   />
 </a>
-<a href="https://github.com/m-pereira">
+<a href="https://github.com/mauricio-prl">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=m-pereira&show_icons=true&count_private=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=mauricio-prl&show_icons=true&count_private=true&theme=dark"
   />
 </a>
 </br></br>
