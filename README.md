@@ -1,8 +1,3 @@
-### Hello World 👋
-
-- 🌱 I’m currently learning RubyOnRails, Elixir and React
-- 👯 I’m looking to collaborate on every opensource project, that needs help xD
-
 <a href="https://github.com/mauricio-prl">
   <img
     align="center"
