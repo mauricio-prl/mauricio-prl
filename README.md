@@ -1,3 +1,5 @@
+[![@mauricioprl's Holopin board](https://holopin.me/mauricioprl)](https://holopin.io/@mauricioprl)
+
 <a href="https://github.com/mauricio-prl">
   <img
     align="center"
@@ -18,5 +20,3 @@
     alt="LinkedIn"
   >
 </a>
-
-[![@mauricioprl's Holopin board](https://holopin.me/mauricioprl)](https://holopin.io/@mauricioprl)
