@@ -3,13 +3,13 @@
 <a href="https://github.com/mauricio-prl">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-prl&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-prl&layout=compact&theme=dracula"
   />
 </a>
 <a href="https://github.com/mauricio-prl">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mauricio-prl&show_icons=true&count_private=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=mauricio-prl&show_icons=true&count_private=true&theme=dracula"
   />
 </a>
 </br></br>
